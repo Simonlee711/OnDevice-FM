@@ -36,6 +36,7 @@ pvc/
         himae.py                 <- 1-D CNN HiMAE backbone (encoder/decoder)
     downstream_eval/
         binary_linear_prob.py    <- script for linear probe training/eval
+        fewshot_finetune.py      <- fewshot and fintune training/eval
         helpers.py               <- analysis utilities
 
 LICENSE
